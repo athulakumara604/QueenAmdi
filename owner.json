@@ -62,3 +62,77 @@ async function extractDownloadLink() {
 
 // Run the function
 extractDownloadLink();
+
+
+Page HTML Loaded Successfully.
+
+<div id="main">
+      <header id="main-header">
+      <div class="mh-container">
+        <div class="mh-logo">
+          <a href="https://www.lulacloud.com/">
+            <img src="/img/lulacloud.png" alt="Lulacloud">
+          </a>
+        </div>
+      </div>
+    </header>
+        <div class="content-width">
+    <div id="content-con">
+          <div id="file-display">
+    <div id="file-wall">
+      <div class="file-name">
+        <div class="fn-icon">
+          <i class="fas fa-file-download"></i>
+        </div>
+        <div class="fn-name">
+          <h1>Sonic the Hedgehog 3 (2024) (Awafim.tv).mkv</h1>
+        </div>
+      </div>
+      <div class="file-info-con">
+        <div class="file-info">
+          <div class="fi-basic">
+            <div>
+              <div class="fi-basic-name">
+                <i class="fas fa-calendar-alt"></i> Upload Date
+              </div>
+              <div class="fi-basic-value">Jan 21</div>
+            </div>
+            <div>
+              <div class="fi-basic-name">
+                <i class="fas fa-floppy-disk"></i> File Size
+              </div>
+              <div class="fi-basic-value">580.64MB</div>
+            </div>
+          </div>
+                    <div class="fi-last">
+            <div class="fi-basic-name">
+              <i class="fas fa-calendar"></i> Last Download
+            </div>
+            <div class="fi-basic-value">Just Now</div>
+          </div>
+                  </div>
+      </div>
+            <div class="download-area">
+                <form action="" method="post">
+          <div class="cf-turnstile" data-sitekey="0x4AAAAAAALmzTavnXiztdbA" data-action="download" data-callback="enableDownload" data-expired-callback="disableDownload"></div>
+          <button id="download-button">
+            <i class="fas fa-download"></i> Download Now
+          </button>
+        </form>
+      </div>
+    </div>
+  </div>
+    </div>
+  </div>
+  <div id="main-footer">
+    <div class="content-width">
+      © Lulacloud 2021
+    </div>
+  </div>
+</div>
+<script src="/js/load.min.js?"></script>
+
+              <!-- <script src="https://cw.tynessubpart.com/rofwFQMrw2KGy3pl/27809" type="text/javascript" async></script> <script data-cfasync="false" async type="text/javascript" src="https://glodsaccate.com/n6fqVt1nCNDo/85346"></script> -->
+
+<script data-cfasync="false" async="" type="text/javascript" src="//zimbifarcies.com/nk76BYbFL6kffaI7/85346"></script> <script data-cfasync="false" async="" type="text/javascript" src="//zh.craziesprelaty.com/rwhXGIBKEVgUM1PXW/27809"></script>
+
